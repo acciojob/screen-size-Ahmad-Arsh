@@ -1,4 +1,4 @@
-window.addEventListener('resize', function() {
+document.addEventListener('DOMContentLoaded', function() {
     let width = window.innerWidth;
     let height = window.innerHeight;
     let sizeInfo = document.querySelector('#sizeInfo');
